@@ -265,7 +265,7 @@ table {
   box-sizing: border-box;
   padding: 0 20px 288px;
   background-color: royalblue;
-  background-image: url(../../src/images/photos/background.png);
+  background-image: url(../images/photos/background.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -719,7 +719,7 @@ table {
 
 .footer {
   height: 180px;
-  background-image: url(../../src/images/photos/footer.png);
+  background-image: url(../images/photos/footer.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
