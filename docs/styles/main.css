@@ -1053,7 +1053,7 @@ table {
   display: inline-block;
   width: 18px;
   height: 12px;
-  background-image: url(../../src/images/menu.svg);
+  background-image: url(../images/menu.svg);
   background-size: cover;
 }
 @media (min-width: 744px) and (max-width: 1259px) {
@@ -1073,7 +1073,7 @@ table {
   display: none;
   width: 18px;
   height: 12px;
-  background-image: url(../../src/images/menu_hover.svg);
+  background-image: url(../images/menu_hover.svg);
   background-size: cover;
 }
 @media (min-width: 1260px) {
